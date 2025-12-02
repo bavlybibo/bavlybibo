@@ -1,54 +1,94 @@
-# 👋 Hey, I'm Bavly (bibo_fox)
+### 🕶️ Hey, I’m Bavly (bibo_fox)
 
-**Cybersecurity student · Bug bounty hunter · CTF & offensive security enthusiast**  
-Focused on **web app hacking, automation & custom security tools**.
+I break security for a living — ethically.  
+Bug bounty hunter • Offensive security • CTF player • Researcher  
+Focused on **web vulnerabilities, automation, JavaScript exploits, recon & custom scanners.**  
+---
+
+## 🧠 Profile Persona  
+- 🕶️ Ultimate hacker mindset  
+- 🔬 Security researcher  
+- 💣 Offensive operator  
+- 🎯 Zero-day chaser  
+- 🐺 Solo & team-based hunter  
 
 ---
 
-## 🧑‍💻 About me
+## 🛠️ Core Technical Skills  
+![Skills](https://skillicons.dev/icons?i=python,bash,js,java,php,html,css,linux,docker,git,github)
 
-- 🎓 3rd-year Cybersecurity student @ Elsewedy University of Technology
-- 🐞 Bug bounty hunter on Bugcrowd & other platforms
-- 🕸️ Love testing real-world web apps & writing detailed reports
-- 🧪 Building my own vulnerability scanners & recon tooling
-
----
-
-## 🎯 Current focus
-
-- Advanced **web vulnerability scanner** (XSS, SQLi, CSP, JS analysis, WAF evasion)
-- **Recon & automation** for bug bounty
-- High-quality **writeups** with PoCs, screenshots & clear methodology
+**Security & Bug Bounty:**  
+Burp Suite • Nmap • ffuf • nuclei • subfinder • sqlmap • metasploit • Wireshark • Aircrack-ng  
+OWASP • CVEs • XSS • SQLi • CSRF • SSRF • CSP bypass • WAF evasion • auth flaws • IDOR • CORS abuse  
 
 ---
 
-## 🛠 Tech & tools
-
-**Languages:** Python, JavaScript, Bash  
-**Security:** Burp Suite, Nmap, ffuf, nuclei, Metasploit, sqlmap, Wireshark  
-**Bug bounty:** recon-ng, httpx, subfinder, katana, custom payload lists  
-**Platforms:** Kali Linux, Docker, GitHub
+## 📊 Real Hacker Activity  
+![](https://github-readme-streak-stats.herokuapp.com/?user=bavlybibo&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api?username=bavlybibo&show_icons=true&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bavlybibo&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🚀 Featured projects
-
-- 🔍 **[web-vuln-scanner](https://github.com/bavlybibo/web-vuln-scanner)** – custom web vulnerability scanner
-- 🛰 **[recon-tools](https://github.com/bavlybibo/recon-tools)** – recon & automation scripts
-- 🧨 **[payload-lists](https://github.com/bavlybibo/payload-lists)** – curated payloads for XSS, SQLi, SSRF & more
-- 📚 **[bugbounty-writeups](https://github.com/bavlybibo/bugbounty-writeups)** – detailed reports & lessons learned
-
----
-
-## 🏴 Bug bounty & CTFs
-
-- Reporting vulnerabilities to real programs
-- Joining CTFs focused on **web exploitation, scripting & OSINT**
-- Always improving methodology: recon → attack surface → exploitation → report
+## 🧩 Current Focus  
+- Building **my own vulnerability scanner**  
+- DOM-XSS & browser-based exploitation  
+- Recon & attack-surface expansion  
+- AI-assisted exploitation suggestions  
+- Smart payload generation  
 
 ---
 
-## 📫 Contact
+## 🔥 Projects  
+🔎 **recon-tools** – automation for discovery  
+🧪 **payload-lists** – curated hacker payloads  
+📕 **bugbounty-writeups** – real-world vulnerabilities with PoCs  
+🕳️ **web-vuln-scanner** – custom scanning & reporting  
 
-- 💼 LinkedIn: [Bavly Wagyh](https://www.linkedin.com/in/bavly-wagyh-9a4645208/)
-- 📧 Email: bavlywagyh@gmail.com
+---
+
+## 🕵️ Bug Bounty Hall  
+🕳️ Real reports submitted to:  
+✔ Apple  
+✔ Huawei  
+✔ Porsche  
+✔ Mercedes-Benz  
+✔ Saudia Group  
+✔ Universities & enterprise SaaS targets  
+✔ + More private programs  
+
+I specialize in:  
+XSS • SQLi • CSRF • CORS • Authentication bypass • IDOR • Logic flaws • Race conditions  
+
+---
+
+## 🧨 Attack Philosophy  
+> *“If there is an input — I’ll break it  
+If there is an endpoint — I’ll hit it  
+If there is an exploit — I’ll find it  
+If there is no exploit — I’ll make one.”*  
+
+---
+
+## 🏆 Achievement-Board  
+- 🥇 Ranked Top 3% on TryHackMe  
+- 🥇 eJPT certified  
+- 🥇 eWPT certified  
+- 🥇 Ethical Hacking professional  
+- 🔥 Multi-target successful reporting history  
+- 🧠 Strong exploitation methodology  
+
+---
+
+## 💼 Contact  
+📩 bavlywagyh@gmail.com  
+🔗 LinkedIn ([optional](https://www.linkedin.com/in/bavly-wagyh-9a4645208/))  
+🔗 Personal website / portfolio 
+
+---
+
+## ☠️ Hacker Mode  
+> “I don’t just scan — I read source.  
+I don’t just test — I understand architecture.  
+I don’t just find bugs — I weaponize them.”  
+
