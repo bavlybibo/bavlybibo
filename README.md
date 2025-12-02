@@ -82,7 +82,7 @@ If there is no exploit — I’ll make one.”*
 
 ## 💼 Contact  
 📩 bavlywagyh@gmail.com  
-🔗 LinkedIn ([optional](https://www.linkedin.com/in/bavly-wagyh-9a4645208/))  
+🔗 LinkedIn ([bavly wagyh](https://www.linkedin.com/in/bavly-wagyh-9a4645208/))  
 🔗 Personal website / portfolio 
 
 ---
