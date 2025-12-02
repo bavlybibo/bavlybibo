@@ -43,5 +43,5 @@
 ## 📫 Contact
 
 - 📧 Email: `bavlywagyh@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bavly-wagyh-9a4645208/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/bavly-wagyh-9a4645208/))
 - 🐦 Bugcrowd / Platforms: `fox`
