@@ -59,5 +59,5 @@
 
 ### 📫 Contact
 
-- 💼 LinkedIn: *[add link here later](https://www.linkedin.com/in/bavly-wagyh-9a4645208/)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/bavly-wagyh-9a4645208/)*  
 - ✉️ Email: *bavlywagyh@gmail.com*  
