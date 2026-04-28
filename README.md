@@ -1,189 +1,272 @@
 <!--
-  Premium GitHub Profile README for Bavly Wagyh Kamal
-  File name on GitHub must be: README.md
-  Repository name must match the GitHub username exactly.
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                 ELITE GITHUB PROFILE README — BAVLY WAGYH                 ║
+  ║  Upload this file as README.md inside a repository named exactly: bavlybibo ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22c55e&text=Bavly%20Wagyh%20Kamal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Network%20Security%20Student&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0f172a,70:0ea5e9,100:22c55e&text=Bavly%20Wagyh%20Kamal&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Cybersecurity%20Researcher%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20Security%20Tool%20Builder&descAlignY=56&descSize=17&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Cybersecurity+Undergraduate;Web+Application+Security+Researcher;Bugcrowd+Security+Researcher;Network+Security+%26+Penetration+Testing;Building+Advanced+Security+Automation+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=1000&lines=I+break+insecure+assumptions.;I+build+security+automation+tools.;I+turn+bugs+into+clear+impact.;I+study+Network+%26+Web+Application+Security.;I+am+building+the+next+generation+of+AI-powered+vulnerability+scanning.)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=bavlybibo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Focus-Web%20Security-22c55e?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Researcher-22c55e?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/Bug%20Bounty-Bugcrowd-f97316?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-Blue%20Team%20%2B%20Red%20Team-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Network%20%7C%20AI%20Security-38bdf8?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="mailto:bavlywagyh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bavlywagyh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bavly%20Wagyh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/bavlybibo">
+  <img src="https://img.shields.io/badge/GitHub-bavlybibo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<div align="center">
 
-I am **Bavly Wagyh Kamal**, a **Network Security undergraduate** and **Cybersecurity Researcher** focused on **web application security, vulnerability research, penetration testing, and network defense**.
+## 🧬 Offensive Mindset. Defensive Discipline. Product Vision.
 
-I work on real-world security testing through responsible bug bounty research, with practical experience in identifying and reporting vulnerabilities such as **XSS, IDOR, access control flaws, misconfigurations, and insecure application behavior**. My goal is to build high-impact cybersecurity solutions that combine **offensive security mindset**, **network engineering fundamentals**, and **automation-first thinking**.
+</div>
+
+I am **Bavly Wagyh Kamal**, a **Network Security undergraduate** and **Cybersecurity Researcher** from Egypt, focused on **web application security, bug bounty research, penetration testing, network security, vulnerability scanning, and AI-assisted security automation**.
+
+My work is built around one idea:
+
+> **Security is not only about finding bugs — it is about proving impact, reducing false positives, and delivering evidence that engineers can trust.**
+
+I am currently working on advanced cybersecurity tooling, including vulnerability scanning, XSS detection, OSINT/forensics intelligence, safe-scope automation, and professional reporting systems designed to make security testing more accurate, structured, and useful.
+
+---
+
+## ⚔️ Who Am I?
 
 ```yaml
-name: Bavly Wagyh Kamal
-role: Cybersecurity Researcher
-education: Bachelor of Network Security
-university: El-Sewedy University of Technology
-location: Egypt
-focus:
-  - Web Application Security
-  - Bug Bounty Research
-  - Penetration Testing
-  - Network Security
-  - Vulnerability Scanning
-  - Security Automation
-mindset:
-  - Responsible Disclosure
-  - Evidence-Based Reporting
-  - Real Impact Validation
-  - Continuous Learning
+identity:
+  name: "Bavly Wagyh Kamal"
+  role: "Cybersecurity Researcher | Bug Bounty Hunter | Security Tool Builder"
+  education: "Bachelor of Network Security"
+  university: "El-Sewedy University of Technology"
+  location: "Egypt"
+
+main_focus:
+  - "Web Application Security"
+  - "Bug Bounty Research"
+  - "Penetration Testing"
+  - "Network Security"
+  - "Vulnerability Scanning"
+  - "Security Automation"
+  - "AI-Powered Security Tools"
+
+research_style:
+  - "Manual validation before reporting"
+  - "Responsible disclosure"
+  - "Scope-aware testing"
+  - "Evidence-based impact"
+  - "Low-noise, high-confidence findings"
+  - "Professional remediation guidance"
+
+current_direction:
+  - "Building advanced vulnerability scanning systems"
+  - "Improving AI-assisted security analysis"
+  - "Developing professional report-generation workflows"
+  - "Combining web, network, cloud, and forensic intelligence"
 ```
 
 ---
 
-## 🚀 Professional Identity
+## 🛰️ My Cybersecurity Operating System
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🛡️ Security Research
-- Authorized testing through bug bounty platforms
-- Web and API vulnerability analysis
-- Impact-driven security reporting
-- Responsible disclosure workflow
-- Evidence-based exploitation validation
+### 🔎 Recon
+Attack surface mapping  
+Endpoint discovery  
+Technology fingerprinting  
+Passive & active analysis  
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🌐 Network Security
-- Routing, switching, VLANs, OSPF
-- Network segmentation and troubleshooting
-- Firewall/security fundamentals
-- Traffic analysis and monitoring
-- Secure infrastructure design
+### 🧪 Validation
+Manual testing  
+Payload tuning  
+Access control checks  
+False-positive reduction  
+
+</td>
+<td width="33%" align="center">
+
+### 📄 Reporting
+Evidence packs  
+CVSS / CWE mapping  
+Clear reproduction  
+Actionable remediation  
 
 </td>
 </tr>
 </table>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | What I Do |
-|---|---|
-| **Web Security** | Testing authentication, authorization, input handling, and business logic |
-| **Bug Bounty** | Finding, validating, documenting, and responsibly reporting vulnerabilities |
-| **Security Automation** | Building scanners, dashboards, and security intelligence tools |
-| **Network Defense** | Designing segmented networks and applying defensive controls |
-| **CTF & Labs** | Practicing exploitation, recon, scripting, and forensic-style analysis |
-
 </div>
-
----
-
-## 🧠 My Security Methodology
 
 ```mermaid
 flowchart LR
-    A[Recon] --> B[Attack Surface Mapping]
+    A[Scope Verification] --> B[Recon & Mapping]
     B --> C[Manual Testing]
-    C --> D[Impact Validation]
-    D --> E[Evidence Collection]
-    E --> F[Professional Report]
-    F --> G[Remediation Guidance]
+    C --> D[Exploit Validation]
+    D --> E[Impact Analysis]
+    E --> F[Evidence Collection]
+    F --> G[Professional Report]
+    G --> H[Remediation Guidance]
 ```
 
-I follow a structured workflow based on **scope verification, careful recon, manual validation, safe testing, and clean reporting**. I focus on proving real business impact without destructive behavior.
+---
+
+## 🚀 What I Am Building
+
+<div align="center">
+
+### 🧠 AI-Powered Vulnerability Scanner Vision
+
+</div>
+
+A next-generation security platform focused on **accurate vulnerability detection**, **safe automation**, and **professional reporting** — combining the spirit of advanced web scanners, network scanners, and AI-assisted security analysis.
+
+```mermaid
+flowchart TB
+    A[Target Scope] --> B[SafeScope AI]
+    B --> C[Recon Engine]
+    C --> D[Web Scanner]
+    C --> E[Network Scanner]
+    C --> F[JavaScript Analyzer]
+    D --> G[Validation Engine]
+    E --> G
+    F --> G
+    G --> H[False Positive Reduction]
+    H --> I[Evidence Builder]
+    I --> J[AI Report Generator]
+    J --> K[Bug Bounty / Executive / Technical Reports]
+```
+
+### Planned / Active Research Directions
+
+- **SafeScope AI** — scope-aware scan control for bug bounty programs.
+- **Advanced XSS Scanner** — reflected, DOM-based, context-aware, WAF-aware, and dynamic analysis.
+- **JavaScript Security Analyzer** — secrets, endpoints, dangerous functions, and risky patterns.
+- **Evidence-Based Reporting** — screenshots, HTTP proof, severity, remediation, and clean export.
+- **Historical Scan Comparison** — track what changed between scans.
+- **AI Report Assistant** — turn findings into professional reports with technical clarity.
+- **Forensics / OSINT Tooling** — image intelligence, map/location clues, metadata, and CTF-ready analysis.
+- **Network + Web Unified Scanning** — one workflow for broader security visibility.
 
 ---
 
 ## 🧩 Featured Projects
 
+<div align="center">
+
+| Project | Category | What It Does |
+|---|---|---|
+| **Advanced XSS Vulnerability Scanner** | Web Security | Reflected/DOM XSS testing, context analysis, fuzzing, WAF-aware probing, Selenium-based dynamic analysis |
+| **HoneyPro — IoT Honeypot Platform** | IoT / Threat Telemetry | ESP32 + Python dashboard for malicious interaction logging, MQTT telemetry, threat scoring, and reports |
+| **Multi-VLAN OSPF Network** | Network Engineering | VLAN segmentation, inter-VLAN routing, OSPF design, and secure network troubleshooting |
+| **Phishing Simulation Lab** | Security Awareness | Safe phishing-awareness workflow with metrics and defensive reporting |
+| **GeoTrace / Forensics Intelligence Direction** | OSINT / DFIR | Image clues, metadata, map intelligence, CTF-style investigation, and evidence reporting |
+| **WiGuard / Packet Tracer Intelligence Direction** | Network Security | Packet Tracer topology extraction, policy validation, topology intelligence, and professional reporting |
+
+</div>
+
+---
+
+## 🔥 Project Deep Dives
+
 ### ⚡ Advanced XSS Vulnerability Scanner
 
-An ongoing security automation project designed to detect and analyze **Reflected XSS** and **DOM-based XSS** patterns with deeper context awareness.
+A security automation project focused on detecting and validating XSS with higher accuracy and deeper analysis.
 
-**Core Ideas**
-- Context-aware payload testing
-- Intelligent payload generation
-- Fuzzing engine
-- WAF-aware probing
-- Selenium-based dynamic analysis
-- Optional blind XSS support
-- JSON/HTML-style reporting vision
+**Target Capabilities**
+- Reflected XSS detection
+- DOM-based XSS analysis
+- Context-aware payload generation
+- Intelligent fuzzing engine
+- WAF detection and evasion-aware testing
+- Selenium-based browser validation
+- Optional blind XSS workflow
+- JSON / HTML reporting
+- Evidence-focused vulnerability output
 
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite)
-![Web Security](https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=owasp)
+**Why it matters:**  
+XSS scanners often create noise. My goal is to build a workflow that focuses on **real execution, proof, context, and exploitability**.
 
 ---
 
 ### 🍯 HoneyPro — IoT Honeypot & Threat Telemetry Platform
 
-A practical IoT honeypot system built to attract, log, and analyze malicious network interactions in a controlled lab environment.
+An IoT security lab project designed to attract, log, and analyze suspicious activity.
 
-**Highlights**
-- Multi-service listeners: SSH, HTTP, FTP, SMB, MySQL, Redis
-- MQTT-based centralized event collection
-- Python/Flask dashboard
-- Threat scoring and timeline view
-- Exportable security reports: HTML, CSV, PDF
-
-**Tech Stack**
-
-![ESP32](https://img.shields.io/badge/ESP32-111827?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-111827?style=for-the-badge&logo=eclipsemosquitto)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
-![Security Analytics](https://img.shields.io/badge/Security%20Analytics-111827?style=for-the-badge)
+**Core Features**
+- ESP32-based honeypot concept
+- Multi-service listeners such as SSH, HTTP, FTP, SMB, MySQL, Redis
+- MQTT event collection
+- Python / Flask dashboard
+- Threat scoring
+- Timeline view
+- Exportable reports: HTML, CSV, PDF
 
 ---
 
-### 🌐 Multi-VLAN Network with Inter-VLAN Routing using OSPF
+### 🌐 Multi-VLAN Network with OSPF
 
-A network engineering project focused on secure segmentation, routing, and troubleshooting.
+A network infrastructure project focused on segmentation, routing, and secure architecture.
 
-**Highlights**
-- VLAN segmentation
+**Core Work**
+- VLAN architecture
 - Inter-VLAN routing
-- OSPF routing design
-- Connectivity troubleshooting
-- Network isolation principles
-
-**Tech Stack**
-
-![Cisco](https://img.shields.io/badge/Cisco-111827?style=for-the-badge&logo=cisco)
-![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-111827?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-111827?style=for-the-badge)
+- OSPF routing
+- IP addressing
+- Troubleshooting
+- Secure segmentation mindset
 
 ---
 
-### 🎣 Phishing Simulation — Awareness Lab Project
+### 🛰️ Security Research & Bug Bounty
 
-A safe awareness-focused project designed to measure user behavior and improve defensive practices.
+As a security researcher, I focus on vulnerabilities with real impact and clear reproduction.
 
-**Highlights**
-- Awareness simulation workflow
-- Metrics and reporting
-- Safe lab environment
-- Defensive education focus
+**Research Areas**
+- Authentication and session management
+- Access control issues
+- IDOR and broken object-level authorization
+- XSS and client-side injection
+- API security testing
+- Misconfiguration analysis
+- Token exposure and insecure flows
+- Business logic weaknesses
+
+**Reporting Style**
+- Clear title and summary
+- Affected endpoints
+- Step-by-step reproduction
+- Technical impact
+- Business impact
+- Evidence and screenshots
+- Risk rating
+- Remediation advice
 
 ---
 
@@ -191,50 +274,82 @@ A safe awareness-focused project designed to measure user behavior and improve d
 
 <div align="center">
 
-### Programming
+### Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,php,html,css,bash" />
 
-### Security Tools
+<br/><br/>
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite)
-![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-111827?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-111827?style=for-the-badge)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-111827?style=for-the-badge)
-![W3af](https://img.shields.io/badge/W3af-111827?style=for-the-badge)
+### Security & Testing Tools
 
-### Platforms & Systems
+<img src="https://img.shields.io/badge/Burp%20Suite-0f172a?style=for-the-badge&logo=burpsuite" />
+<img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark" />
+<img src="https://img.shields.io/badge/Metasploit-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nessus-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/W3af-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0f172a?style=for-the-badge&logo=cisco" />
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0f172a?style=for-the-badge&logo=kalilinux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0f172a?style=for-the-badge&logo=ubuntu)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-0f172a?style=for-the-badge&logo=redhat)
-![Windows](https://img.shields.io/badge/Windows-0f172a?style=for-the-badge&logo=windows)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
+<br/><br/>
+
+### Systems & Platforms
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,redhat,windows,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🏆 Certificates & Learning Tracks
+## 🧠 Knowledge Map
+
+```mermaid
+mindmap
+  root((Bavly))
+    Web Security
+      XSS
+      IDOR
+      Access Control
+      API Testing
+      Auth Flows
+      Misconfigurations
+    Network Security
+      VLANs
+      OSPF
+      Routing
+      Switching
+      Firewalls
+      Traffic Analysis
+    Security Engineering
+      Vulnerability Scanners
+      Report Automation
+      Evidence Packaging
+      False Positive Reduction
+      SafeScope AI
+    DFIR & OSINT
+      Metadata
+      Image Analysis
+      Map Intelligence
+      CTF Investigation
+      Timeline Analysis
+```
+
+---
+
+## 🏆 Certifications & Learning
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### ✅ Completed / Earned
+### ✅ Certificates
 - TryHackMe — Junior Penetration Tester
 - Google Cybersecurity Certificate
 - IBM SkillsBuild — Cybersecurity Fundamentals
-- ITI — Ethical Hacking Certificate
-- ITI — Computer Networks Implementation Certificate
+- ITI — Ethical Hacking
+- ITI — Computer Networks Implementation
 - Meta — JavaScript Developer Certificate
 
 </td>
@@ -245,10 +360,14 @@ A safe awareness-focused project designed to measure user behavior and improve d
 - eLearnSecurity eWPT
 - CCNA — Cisco Certified Network Associate
 - Red Teaming / Penetration Testing path
+- Web Application Security practice
+- Security labs and CTF-style training
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -257,11 +376,26 @@ A safe awareness-focused project designed to measure user behavior and improve d
 ### Cybersecurity Researcher — Bugcrowd Submissions  
 **2025 — Present**
 
-- Perform authorized security testing on web applications and APIs within published scopes.
-- Identify and validate vulnerabilities including XSS, IDOR, access control issues, and misconfigurations.
-- Write professional reports with reproduction steps, evidence, risk rating, and remediation recommendations.
-- Use tools such as Burp Suite, Nmap, Wireshark, and related recon/testing utilities.
-- Follow responsible disclosure and non-destructive testing principles.
+- Performed authorized security testing on web applications and APIs within defined scopes.
+- Identified and validated vulnerabilities such as XSS, IDOR, access control flaws, and misconfigurations.
+- Wrote professional reports with reproduction steps, evidence, impact, and remediation.
+- Used tools such as Burp Suite, Nmap, Wireshark, and related testing utilities.
+- Followed responsible disclosure and non-destructive testing principles.
+
+### Network Security Training — Orange Business  
+**Sep 2025 — Oct 2025**
+
+- Hands-on exposure to firewall configuration and operations.
+- Worked with Fortinet and Palo Alto security concepts.
+- Learned SOC / Support workflows, L1/L2 escalation, and client interaction lifecycle.
+
+### IT / Networking & Security Intern — Egyptian Arab Land Bank  
+**Aug 2025 — Sep 2025**
+
+- Supported Windows setup, upgrades, and endpoint preparation.
+- Assisted with domain onboarding, antivirus deployment, and printer configuration.
+- Practiced routing, subnetting, NAT, and troubleshooting fundamentals.
+- Covered Laravel basics and secure web development concepts.
 
 ---
 
@@ -277,35 +411,80 @@ A safe awareness-focused project designed to measure user behavior and improve d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bavlybibo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bavlybibo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Bavly's%20GitHub%20Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bavlybibo&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlybibo&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavlybibo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bavlybibo&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🧬 How I Think
+## 🧪 My Research Philosophy
 
-> I do not just look for bugs.  
-> I look for the path from weakness to real impact, then document it clearly enough that engineers can reproduce, understand, and fix it.
+<div align="center">
 
-### My Core Principles
+<table>
+<tr>
+<td align="center" width="25%">
 
-- **Stay within scope**
-- **Validate before reporting**
-- **Avoid noise and false positives**
-- **Document evidence clearly**
-- **Explain business impact**
-- **Recommend practical remediation**
-- **Keep learning every day**
+### 🧭 Scope First
+Respect rules, boundaries, and responsible disclosure.
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 Impact Driven
+A finding is stronger when the real-world risk is clear.
+
+</td>
+<td align="center" width="25%">
+
+### 🧾 Evidence Based
+Screenshots, requests, responses, and clean reproduction.
+
+</td>
+<td align="center" width="25%">
+
+### 🛠️ Builder Mindset
+Every bug teaches how to build better tools.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧰 Professional Report Structure I Follow
+
+```text
+01. Title
+02. Summary
+03. Scope & Target
+04. Affected Endpoint / Component
+05. Vulnerability Class
+06. Severity & Reasoning
+07. Step-by-Step Reproduction
+08. Evidence
+09. Technical Impact
+10. Business Impact
+11. Remediation
+12. References / CWE / OWASP
+```
 
 ---
 
 ## 🌍 Languages
+
+<div align="center">
 
 | Language | Level |
 |---|---|
@@ -313,15 +492,55 @@ A safe awareness-focused project designed to measure user behavior and improve d
 | English | Fluent |
 | French | Beginner |
 
+</div>
+
 ---
 
-## 📫 Connect With Me
+## 🎮 CTF & Lab Mindset
+
+I enjoy challenges that require:
+
+- Web exploitation
+- Recon and OSINT
+- Scripting and automation
+- Network analysis
+- Digital forensics
+- Reverse engineering basics
+- Creative thinking under pressure
+
+---
+
+## 📌 Current Roadmap
+
+```mermaid
+timeline
+    title Bavly's Security Roadmap
+    2025 : Bug bounty research
+         : Advanced XSS scanner
+         : Network security internships
+    2026 : AI-powered vulnerability scanning
+         : OSINT/Forensics intelligence tooling
+         : Professional reporting engine
+    2027 : Graduation in Network Security
+         : Strong public portfolio
+         : Production-grade security platform
+```
+
+---
+
+## 🤝 Let’s Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bavly%20Wagyh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-bavlywagyh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bavlywagyh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bavlybibo-181717?style=for-the-badge&logo=github)](https://github.com/bavlybibo)
+<a href="mailto:bavlywagyh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/bavlybibo">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -329,8 +548,12 @@ A safe awareness-focused project designed to measure user behavior and improve d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:0ea5e9,100:0f172a" width="100%" />
+## ⚡ Final Statement
 
-### ⭐ Building security tools, breaking insecure assumptions, and learning every day.
+> **I am building my path as a cybersecurity researcher who does not stop at finding vulnerabilities — I aim to build tools, reports, and systems that make security testing smarter, safer, and more impactful.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22c55e,45:0ea5e9,100:020617" width="100%" />
 
 </div>
