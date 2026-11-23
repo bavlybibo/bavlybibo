@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="555" viewBox="0 0 600 555" role="img" aria-labelledby="title description">
+  <title id="title">Selected work — mobile</title>
+  <desc id="description">A readable, vertically stacked project index for narrow screens.</desc>
+  <rect width="600" height="555" fill="#18222C"/>
+  <g stroke="#3A4852" stroke-width="1">
+    <path d="M22 22H578M22 157H578M22 292H578M22 427H578M22 533H578"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g fill="#D6DCDD" font-size="16" font-weight="700" letter-spacing="2">
+      <text x="43" y="55">01 / SATELLITE EVIDENCE</text>
+      <text x="43" y="190">02 / SECURE STORAGE</text>
+      <text x="43" y="325">03 / DIGITAL FORENSICS</text>
+      <text x="43" y="460">04 / NETWORK POLICY</text>
+    </g>
+    <g fill="#F7F6F1" font-size="43" font-weight="700" letter-spacing="-1.2">
+      <text x="42" y="113">INSIDER LENS</text>
+      <text x="42" y="248">CYBERVAULT X</text>
+      <text x="42" y="383">GEOTRACE X</text>
+      <text x="42" y="510">WIRELESS MANAGER</text>
+    </g>
+  </g>
+  <g fill="#C96B40">
+    <rect x="532" y="45" width="24" height="4"/>
+    <rect x="532" y="180" width="24" height="4"/>
+    <rect x="532" y="315" width="24" height="4"/>
+    <rect x="532" y="450" width="24" height="4"/>
+  </g>
+</svg>
