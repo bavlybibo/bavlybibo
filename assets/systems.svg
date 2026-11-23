@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">CyberVault X and GeoTrace Forensics X — engineering diagrams</title>
+  <desc id="desc">Two original annotated conceptual diagrams, one showing local vault controls and one showing separation of native forensic evidence from derived leads.</desc>
+  <rect width="1200" height="350" fill="#F1F0EB"/>
+  <path d="M600 26V323M28 26H1172M28 323H1172" stroke="#C6C9C4"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g fill="#1C292A" font-weight="700">
+      <text x="49" y="57" font-size="17" letter-spacing="2">02 / CYBERVAULT X</text>
+      <text x="625" y="57" font-size="17" letter-spacing="2">03 / GEOTRACE FORENSICS X</text>
+    </g>
+    <g fill="#566663" font-size="13" letter-spacing="1.4">
+      <text x="49" y="83">LOCAL TRUST BOUNDARY</text>
+      <text x="625" y="83">EVIDENCE STRENGTH IS NOT UNIFORM</text>
+    </g>
+    <rect x="49" y="119" width="145" height="84" fill="#1C292A"/>
+    <rect x="218" y="119" width="145" height="84" fill="#1C292A"/>
+    <rect x="387" y="119" width="165" height="84" fill="#1C292A"/>
+    <g fill="#F1F0EB" font-weight="700" font-size="16" text-anchor="middle">
+      <text x="121" y="152">KEY</text><text x="121" y="174">DERIVATION</text>
+      <text x="290" y="152">AES-GCM</text><text x="290" y="174">VAULT</text>
+      <text x="469" y="152">AUDIT</text><text x="469" y="174">EVIDENCE</text>
+    </g>
+    <g stroke="#D56F4F" stroke-width="3" fill="none">
+      <path d="M195 161H217M363 161H386"/>
+      <path d="M211 155L217 161L211 167M380 155L386 161L380 167"/>
+    </g>
+    <rect x="625" y="119" width="520" height="43" fill="#1C292A"/>
+    <rect x="625" y="166" width="520" height="43" fill="#DDE2DD"/>
+    <rect x="625" y="213" width="520" height="43" fill="#E8D9D1"/>
+    <g font-size="16" font-weight="700">
+      <text x="643" y="146" fill="#F1F0EB">NATIVE EXIF / GPS</text>
+      <text x="643" y="193" fill="#1C292A">DERIVED OCR / MAP CLUE</text>
+      <text x="643" y="240" fill="#1C292A">UNKNOWN / UNCORROBORATED</text>
+    </g>
+    <g font-size="12" letter-spacing="1" fill="#9DABA7"><text x="1074" y="146">EVIDENCE</text></g>
+    <g font-size="12" letter-spacing="1" fill="#566663"><text x="1086" y="193">LEAD</text><text x="1080" y="240">LIMIT</text></g>
+    <text x="49" y="274" fill="#566663" font-size="15">Local analysis · privacy-aware exports · deterministic checks</text>
+    <text x="625" y="283" fill="#566663" font-size="15">An investigative clue is not a verified GPS observation.</text>
+    <g fill="#D56F4F"><rect x="49" y="302" width="39" height="4"/><rect x="625" y="302" width="39" height="4"/></g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="575" viewBox="0 0 640 575" role="img" aria-labelledby="title desc">
+  <title id="title">Security systems — mobile engineering diagrams</title>
+  <desc id="desc">Mobile-readable technical diagrams for CyberVault X and GeoTrace.</desc>
+  <rect width="640" height="575" fill="#F1F0EB"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <path d="M24 22H616M24 281H616M24 551H616" stroke="#C6C9C4"/>
+    <text x="35" y="54" fill="#1C292A" font-size="20" font-weight="700" letter-spacing="1.6">02 / CYBERVAULT X</text>
+    <text x="35" y="83" fill="#566663" font-size="14" letter-spacing="1.5">LOCAL TRUST BOUNDARY</text>
+    <rect x="35" y="115" width="170" height="87" fill="#1C292A"/>
+    <rect x="233" y="115" width="170" height="87" fill="#1C292A"/>
+    <rect x="431" y="115" width="170" height="87" fill="#1C292A"/>
+    <g fill="#F1F0EB" font-size="18" font-weight="700" text-anchor="middle">
+      <text x="120" y="149">KEY</text><text x="120" y="176">DERIVATION</text>
+      <text x="318" y="149">AES-GCM</text><text x="318" y="176">VAULT</text>
+      <text x="516" y="149">AUDIT</text><text x="516" y="176">PROOF</text>
+    </g>
+    <g stroke="#D56F4F" stroke-width="3"><path d="M206 159H232M404 159H430"/></g>
+    <text x="35" y="237" fill="#566663" font-size="16">Local analysis · protected backup · audit evidence</text>
+    <text x="35" y="315" fill="#1C292A" font-size="20" font-weight="700" letter-spacing="1.5">03 / GEOTRACE FORENSICS X</text>
+    <text x="35" y="345" fill="#566663" font-size="14" letter-spacing="1.5">CLAIM STRENGTH / PROVENANCE</text>
+    <rect x="35" y="369" width="570" height="49" fill="#1C292A"/>
+    <rect x="35" y="423" width="570" height="49" fill="#DDE2DD"/>
+    <rect x="35" y="477" width="570" height="49" fill="#E8D9D1"/>
+    <text x="54" y="400" fill="#F1F0EB" font-size="18" font-weight="700">NATIVE EXIF / GPS — EVIDENCE</text>
+    <text x="54" y="454" fill="#1C292A" font-size="18" font-weight="700">DERIVED OCR / MAP — LEAD</text>
+    <text x="54" y="508" fill="#1C292A" font-size="18" font-weight="700">UNKNOWN — STATE THE LIMIT</text>
+  </g>
+</svg>

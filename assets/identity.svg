@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-labelledby="title desc">
+  <title id="title">Bavly Wagyh — Evidence over assumption</title>
+  <desc id="desc">Original print-inspired security engineering identity, near-black ink with warm white type and one restrained rust accent.</desc>
+  <rect width="1200" height="335" fill="#121B1D"/>
+  <path d="M48 37H1152M48 298H1152" stroke="#52615E" stroke-width="1"/>
+  <path d="M48 37H166" stroke="#DB7756" stroke-width="5"/>
+  <text x="48" y="61" fill="#F2EFE7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3">BAVLY WAGYH</text>
+  <text x="429" y="61" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.4">SECURITY RESEARCH / ENGINEERING</text>
+  <text x="1055" y="61" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.1">CAIRO 26</text>
+  <text x="44" y="177" fill="#F2EFE7" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="126" letter-spacing="-5">EVIDENCE</text>
+  <text x="49" y="275" fill="#F2EFE7" font-family="Georgia,serif" font-style="italic" font-size="103" letter-spacing="-3">over assumption.</text>
+  <g stroke="#52615E" stroke-width="1" fill="none">
+    <path d="M973 91V278M1013 91V278M1053 91V278M1093 91V278M1133 91V278"/>
+    <path d="M957 105H1152M957 145H1152M957 185H1152M957 225H1152M957 265H1152"/>
+  </g>
+  <path d="M957 253L986 223L1011 231L1033 167L1062 191L1080 130L1111 147L1136 104" stroke="#DB7756" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#DB7756"><circle cx="986" cy="223" r="5"/><circle cx="1033" cy="167" r="5"/><circle cx="1080" cy="130" r="5"/><circle cx="1136" cy="104" r="5"/></g>
+  <rect x="48" y="306" width="9" height="9" fill="#DB7756"/>
+  <text x="70" y="315" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">FIELD NOTES / 001</text>
+  <text x="965" y="315" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">RESEARCH · SYSTEMS</text>
+</svg>

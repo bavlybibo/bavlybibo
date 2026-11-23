@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Bavly Wagyh — mobile identity</title>
+  <desc id="desc">Mobile-readable print-inspired typographic artwork.</desc>
+  <rect width="640" height="480" fill="#121B1D"/>
+  <path d="M34 32H605M34 444H605" stroke="#52615E" stroke-width="1"/>
+  <path d="M34 32H165" stroke="#DB7756" stroke-width="5"/>
+  <text x="34" y="66" fill="#F2EFE7" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="2.6">BAVLY WAGYH</text>
+  <text x="34" y="108" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.9">SECURITY RESEARCH / ENGINEERING</text>
+  <text x="28" y="237" fill="#F2EFE7" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="82" letter-spacing="-3.3">EVIDENCE</text>
+  <text x="32" y="326" fill="#F2EFE7" font-family="Georgia,serif" font-style="italic" font-size="67" letter-spacing="-2">over assumption.</text>
+  <path d="M34 384H606" stroke="#52615E"/>
+  <g fill="#DB7756"><circle cx="49" cy="410" r="6"/><circle cx="593" cy="410" r="6"/></g>
+  <text x="71" y="415" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">FIELD NOTES / 001</text>
+  <text x="34" y="467" fill="#9EACA8" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">CAIRO / EGYPT</text>
+</svg>
