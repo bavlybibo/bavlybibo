@@ -1,6 +1,8 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/cover-mobile.svg" />
-  <img src="./assets/cover.svg" width="100%" alt="Bavly Wagyh — cybersecurity researcher and security engineer. Personal research archive." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/cover-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cover.svg" />
+  <source media="(max-width: 640px)" srcset="./assets/cover-mobile-motion.gif" />
+  <img src="./assets/cover-motion.gif" width="100%" alt="Bavly Wagyh — cybersecurity researcher and security engineer. An editorial title reveal finishes on the full name." />
 </picture>
 
 <p align="center">
@@ -23,6 +25,16 @@ I work at the intersection of **offensive security, practical software engineeri
 
 ## 01 / What I actually do
 
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/field-atlas-mobile.svg" />
+  <img src="./assets/field-atlas.svg" width="100%" alt="Field atlas of four practices: Web and API security, systems, digital evidence, and security engineering" />
+</picture>
+
+My work is organized around **testing a claim, examining the system, preserving evidence, and building a verified result.**
+
+<details>
+<summary><b>Explore what each security discipline means in practice</b></summary>
+
 | Focus | Practice |
 | :-- | :-- |
 | **Web & API security** | Authorized penetration testing, request/response analysis, authentication and authorization testing, bug bounty research, reproducible reporting. |
@@ -30,17 +42,25 @@ I work at the intersection of **offensive security, practical software engineeri
 | **Digital forensics** | EXIF/GPS investigation, integrity hashing, evidence provenance, chain of custody, and explicit confidence boundaries. |
 | **Security product engineering** | Python-backed tools, web interfaces, automated checks, threat models, and research prototypes that make limitations visible. |
 
+</details>
+
 ### Languages, platforms & tools
+
+**Programming:** Python · JavaScript · PHP · C++ · Java  
+**Web & data:** HTML/CSS · SQL/MySQL · Flask · Laravel · REST APIs
+
+<details>
+<summary><b>Explore the full security and engineering toolkit</b></summary>
 
 | | Working stack |
 | :-- | :-- |
-| **Programming** | **Python · JavaScript · PHP · C++ · Java** |
-| **Web & data** | HTML/CSS · SQL/MySQL · Flask · Laravel · REST APIs |
 | **Offensive security** | Burp Suite · Nmap · Nuclei · sqlmap · Metasploit · subfinder · gobuster · wfuzz |
 | **Networks & forensics** | Wireshark · TCP/IP · firewall operations · EXIF/GPS analysis · SHA-256 evidence workflows |
 | **Systems & development** | Linux (Kali/Ubuntu) · Windows/Windows Server · Git · PyQt · MapLibre |
 
-<sub>The list spans practical projects, labs, university work and technical training; it isn't a claim of equal mastery or professional certification in every tool.</sub>
+<sub>The stack spans projects, labs, university work and technical training; it isn't a claim of equal mastery or professional certification in every tool.</sub>
+
+</details>
 
 ---
 
@@ -73,8 +93,10 @@ An academic local-security prototype with **AES-GCM encrypted storage**, passwor
 A Windows-first image-investigation workbench with **EXIF/GPS inspection, SHA-256 integrity evidence, case records, OCR/map leads and reporting**. The key distinction: a lead inferred from an image is **not** a verified native GPS observation.
 
 <picture>
-  <source media="(max-width: 640px)" srcset="./assets/systems-mobile.svg" />
-  <img src="./assets/systems.svg" width="100%" alt="Conceptual diagrams of CyberVault X local security controls and GeoTrace evidence-confidence categories" />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/systems-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/systems.svg" />
+  <source media="(max-width: 640px)" srcset="./assets/systems-mobile-motion.gif" />
+  <img src="./assets/systems-motion.gif" width="100%" alt="Subtly animated conceptual diagrams of CyberVault X local security controls and GeoTrace evidence-confidence categories" />
 </picture>
 
 <sub>Diagrams are original workflow illustrations, **not product screenshots**.</sub>

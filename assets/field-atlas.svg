@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="446" viewBox="0 0 1200 446" role="img" aria-label="Technical field atlas: web and API security, systems, forensics, and engineering">
+  <rect width="1200" height="446" fill="#F0EFEA"/>
+  <path d="M30 30H1170M30 415H1170M600 75V404M30 236H1170" fill="none" stroke="#CCD3CE" stroke-width="2"/>
+  <path d="M30 30H160" stroke="#D47F5C" stroke-width="6"/>
+  <text x="45" y="61" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#45544E" letter-spacing="3" font-weight="bold">RESEARCH FIELD ATLAS</text>
+  <text x="1160" y="61" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64756D" letter-spacing="3">04 / DISCIPLINES</text>
+
+  <text x="45" y="111" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#D47F5C" font-weight="bold" letter-spacing="2">01 / TEST</text>
+  <text x="45" y="180" font-family="Arial, Helvetica, sans-serif" font-size="69" fill="#162522" font-weight="900" letter-spacing="-4">WEB / API</text>
+  <text x="45" y="211" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5C6C65">Trust boundaries · Auth · Reproduction</text>
+
+  <text x="625" y="111" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#D47F5C" font-weight="bold" letter-spacing="2">02 / DEFEND</text>
+  <text x="625" y="180" font-family="Arial, Helvetica, sans-serif" font-size="69" fill="#162522" font-weight="900" letter-spacing="-4">SYSTEMS</text>
+  <text x="625" y="211" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5C6C65">Network traffic · Identity · Policy</text>
+
+  <text x="45" y="271" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#D47F5C" font-weight="bold" letter-spacing="2">03 / PROVE</text>
+  <text x="45" y="340" font-family="Arial, Helvetica, sans-serif" font-size="69" fill="#162522" font-weight="900" letter-spacing="-4">EVIDENCE</text>
+  <text x="45" y="375" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5C6C65">Integrity · Provenance · Confidence</text>
+
+  <text x="625" y="271" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#D47F5C" font-weight="bold" letter-spacing="2">04 / SHIP</text>
+  <text x="625" y="340" font-family="Arial, Helvetica, sans-serif" font-size="69" fill="#162522" font-weight="900" letter-spacing="-4">BUILD</text>
+  <text x="625" y="375" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5C6C65">Software · Threat models · Testing</text>
+</svg>
