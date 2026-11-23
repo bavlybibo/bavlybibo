@@ -1,92 +1,145 @@
-<div align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/identity-mobile.svg" />
-    <img src="./assets/identity.svg" width="100%" alt="Bavly Wagyh — security research and engineering. Evidence over assumption." />
-  </picture>
-</div>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/cover-mobile.svg" />
+  <img src="./assets/cover.svg" width="100%" alt="Bavly Wagyh — cybersecurity researcher and security engineer. Personal research archive." />
+</picture>
 
 <p align="center">
-  <b>Vulnerability research · Forensic engineering · Evidence-aware systems</b>
-  <br>
-  Cairo, Egypt &nbsp; / &nbsp;
-  <a href="mailto:bavlywagyh@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/bavly-wagyh-9a4645208/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/bavlybibo?tab=repositories">Code</a>
+  <b>Web & API Security&nbsp; / &nbsp;Vulnerability Research&nbsp; / &nbsp;Security Engineering&nbsp; / &nbsp;Digital Forensics</b>
+  <br/>
+  <a href="mailto:bavlywagyh@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bavly-wagyh-9a4645208/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/bavlybibo?tab=repositories">Repositories</a>
 </p>
 
-I investigate how security guarantees break, and build systems that make their own evidence inspectable. My focus is practical: **reproduce the behavior, bound the claim, preserve the proof.**
+I'm **Bavly Wagyh**, a Network & Cyber Security Technology undergraduate at **Elsewedy University of Technology (SUT), Egypt** (expected graduation: **2027**).
+
+I work at the intersection of **offensive security, practical software engineering, and evidence-driven analysis**. I investigate web and API vulnerabilities within authorized scope, reproduce security behavior, and build tools that make technical claims testable. I'm particularly interested in where a system's *actual guarantees* differ from what its interface or documentation suggests.
+
+| Security research | Engineering | Background |
+| :-- | :-- | :-- |
+| Accepted, closed **paid** vulnerability reports involving **Apple, Huawei & Porsche** | Deployed investigation tools, security prototypes, testing and documentation | Cybersecurity undergraduate · hands-on IT, networking and security training |
 
 ---
 
-## Selected casework
+## 01 / What I actually do
 
-### <sub>01 / SATELLITE EVIDENCE</sub>  [INSIDER LENS](https://github.com/bavlybibo/Insider-Lens)
+| Focus | Practice |
+| :-- | :-- |
+| **Web & API security** | Authorized penetration testing, request/response analysis, authentication and authorization testing, bug bounty research, reproducible reporting. |
+| **Network & systems security** | Traffic analysis, network segmentation, identity and access controls, Windows/Linux administration, security monitoring workflows. |
+| **Digital forensics** | EXIF/GPS investigation, integrity hashing, evidence provenance, chain of custody, and explicit confidence boundaries. |
+| **Security product engineering** | Python-backed tools, web interfaces, automated checks, threat models, and research prototypes that make limitations visible. |
 
-**NASA Space Apps Cairo 2026 · Local Winner · Working public release**
+### Languages, platforms & tools
 
-One source sees a hotspot; another does not. Is that a change in fire activity, a difference in sensors, or missing observation opportunity? Insider Lens makes the *retained and excluded evidence* visible before anyone draws a trend.
+| | Working stack |
+| :-- | :-- |
+| **Programming** | **Python · JavaScript · PHP · C++ · Java** |
+| **Web & data** | HTML/CSS · SQL/MySQL · Flask · Laravel · REST APIs |
+| **Offensive security** | Burp Suite · Nmap · Nuclei · sqlmap · Metasploit · subfinder · gobuster · wfuzz |
+| **Networks & forensics** | Wireshark · TCP/IP · firewall operations · EXIF/GPS analysis · SHA-256 evidence workflows |
+| **Systems & development** | Linux (Kali/Ubuntu) · Windows/Windows Server · Git · PyQt · MapLibre |
+
+<sub>The list spans practical projects, labs, university work and technical training; it isn't a claim of equal mastery or professional certification in every tool.</sub>
+
+---
+
+## 02 / Selected engineering & research work
+
+### <sub>CASE 01 / SATELLITE EVIDENCE</sub> [Insider Lens](https://github.com/bavlybibo/Insider-Lens)
+
+**NASA Space Apps Cairo 2026 — Local Winner · Publicly deployed · Team of three**
+
+Satellite hotspot maps can look certain even when the sensors disagree. Insider Lens lets an investigator compare **MODIS and VIIRS**, inspect the observation opportunity, and see which evidence is retained or withheld before drawing a conclusion. My work included the application's experience and engineering, release validation, and evidence-aware presentation.
 
 <a href="https://insider-lens.pages.dev/?region=canada&view=retention">
-  <img src="https://raw.githubusercontent.com/bavlybibo/Insider-Lens/main/docs/assets/insider-lens-overview.png" width="100%" alt="Real Insider Lens application: Canada hotspot evidence, satellite-source comparisons, map and UTC timeline" />
+  <img src="https://raw.githubusercontent.com/bavlybibo/Insider-Lens/main/docs/assets/insider-lens-overview.png" width="100%" alt="Real Insider Lens deployed application showing satellite hotspot evidence and a Canada comparison view" />
 </a>
 
 | **568** | **10,524** | **G4 withheld** |
 | :-- | :-- | :-- |
-| Distinct positive cell-day keys in a fixed Canada study | Source records retained under both-native policy | Unqualified cross-sensor adjustment not released |
+| Distinct positive cell-day keys in a fixed Canadian study | Retained source records under the both-native policy | Unqualified cross-sensor adjustment was not released |
 
-<sub>These are evidence-partition counts, **not** physical wildfire counts or validated detection rates.</sub>
+<sub>Evidence-partition counts only; **not** physical wildfire counts or validated detection rates.</sub>
 
-<p>
-  <a href="https://insider-lens.pages.dev/?region=canada&view=retention"><b>Open the live investigation</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/bavlybibo/Insider-Lens"><b>Source</b></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/bavlybibo/Insider-Lens/blob/main/docs/SCIENTIFIC_SCOPE.md"><b>Scientific limits</b></a>
-</p>
+**[Live investigation](https://insider-lens.pages.dev/?region=canada&view=retention)** · **[Source & reproducibility](https://github.com/bavlybibo/Insider-Lens)** · **[Scientific scope](https://github.com/bavlybibo/Insider-Lens/blob/main/docs/SCIENTIFIC_SCOPE.md)**
 
-### <sub>02 / LOCAL SECURITY</sub>  [CYBERVAULT X](https://github.com/bavlybibo/CyberVaultX)
+### <sub>CASE 02 / LOCAL SECURITY</sub> [CyberVault X](https://github.com/bavlybibo/CyberVaultX)
 
-A local password-security research prototype built around **AES-GCM-encrypted storage**, an auditable proof center, encrypted backups, deterministic security coaching, and privacy-safe reports. Its public repository contains code, regression tests, a threat model, and explicit limitations.
+An academic local-security prototype with **AES-GCM encrypted storage**, password-derived keys, encrypted backups, audit evidence, privacy-aware reports and regression tests. It is documented with a threat model and explicit technical limitations, not presented as an audited commercial password manager.
 
-### <sub>03 / DIGITAL FORENSICS</sub>  [GEOTRACE FORENSICS X](https://github.com/bavlybibo/geotrace-forensics)
+### <sub>CASE 03 / FORENSIC PROVENANCE</sub> [GeoTrace Forensics X](https://github.com/bavlybibo/geotrace-forensics)
 
-A Windows-first forensic image workbench combining **EXIF/GPS extraction**, SHA-256 evidence integrity, custody records, OCR/map leads, and shareable reports. It keeps native location evidence separate from unverified investigative clues.
+A Windows-first image-investigation workbench with **EXIF/GPS inspection, SHA-256 integrity evidence, case records, OCR/map leads and reporting**. The key distinction: a lead inferred from an image is **not** a verified native GPS observation.
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/systems-mobile.svg" />
-  <img src="./assets/systems.svg" width="100%" alt="Original technical illustrations: CyberVault X local encryption and verification controls; GeoTrace forensic evidence-strength categories" />
+  <img src="./assets/systems.svg" width="100%" alt="Conceptual diagrams of CyberVault X local security controls and GeoTrace evidence-confidence categories" />
 </picture>
 
-<sub>Above: conceptual workflow illustrations, **not application screenshots**. CyberVault X is an academic prototype; GeoTrace is a public release candidate.</sub>
+<sub>Diagrams are original workflow illustrations, **not product screenshots**.</sub>
 
-**Also built:** Wireless Policy Manager / WiGuard Nexus — role-to-SSID and VLAN controls, policy validation, audit history and reporting. [Team repository](https://github.com/moayadayman15/WiGuard-Nexus-Packet-Tracer-Intelligence).
+**Also:** [WiGuard Nexus / Wireless Policy Manager](https://github.com/moayadayman15/WiGuard-Nexus-Packet-Tracer-Intelligence) — a team project for SSID/VLAN and role-policy validation, audit records and reporting · [Principal Mirage reproduction](https://github.com/bavlybibo/principal-mirage-repro) — a public security-research reproduction/prototype.
 
 ---
 
-## Research record
+## 03 / Security research & competitive practice
 
-| | |
+| Record | Context |
 | :-- | :-- |
-| **Accepted security research** | Apple · Huawei · Porsche — closed reports; private details remain subject to disclosure terms |
-| **NASA Space Apps Cairo 2026** | Local Winner with Insider Lens; **not** a global nominee |
-| **ICMTC Cybersecurity 2026** | Top 5 qualifiers / Top 10 final, as a team |
-| **Research practice** | Authorized scope → reproduction → impact evidence → remediation guidance |
+| **Responsible disclosure** | Accepted and closed **paid** findings involving **Apple, Huawei and Porsche**. Private report details remain subject to disclosure conditions. |
+| **NASA Space Apps Cairo 2026** | **Local Winner** with Insider Lens; the team was **not** selected as a global nominee. |
+| **ICMTC Cybersecurity 2026** | Team reached **Top 5 in qualifiers** and **Top 10 in the final**. |
+| **CTF practice** | Hands-on challenges spanning web security, digital forensics, cryptography, reverse engineering, pwn and OSINT. |
 
-### Currently developing — Insider Eye
-
-An ongoing policy-aware insider-threat platform combining endpoint controls, Linux/security workflows, backend services, and AI-based detection research. Development and evaluation are active; this is **not** presented as a completed production product.
+My reporting loop: **understand the boundary → reproduce the behavior → establish impact → document evidence and limitations → recommend a fix**.
 
 ---
 
-## Working principles
+## 04 / Education, training & credentials
 
-**01 · Minimize assumptions** &nbsp; / &nbsp; **02 · Keep provenance** &nbsp; / &nbsp; **03 · Test the edge cases** &nbsp; / &nbsp; **04 · Explain the limits**
+### Formal education
 
-**Tools and systems:** Python, JavaScript, Linux, Burp Suite, Wireshark, Flask, PyQt, MapLibre, Git.
+**B.S. in Network & Cyber Security Technology**  
+**Elsewedy University of Technology (SUT), Egypt** · Expected **2027**
 
-**Background:** B.S. Network & Cyber Security Technology, Elsewedy University of Technology (expected 2027). Enterprise IT/security experience through Elsewedy ESC, Orange Business, and Egyptian Arab Land Bank.
+Academic and applied work across web security, networks, operating systems, secure software, authentication, threat modeling and AI/ML-related cybersecurity topics.
+
+### Practical industry training
+
+| Organization | Hands-on focus |
+| :-- | :-- |
+| **Orange Business** | Network-security training; Fortinet/Palo Alto firewall operations and SOC L1/L2 workflows. |
+| **Elsewedy ESC** | Enterprise infrastructure, Windows Server and Active Directory, data-center and identity/security workflows. |
+| **Egyptian Arab Land Bank (EALB)** | IT and network/security internship: Windows/domain work, routing and NAT, Laravel/API basics and secure-coding practice. |
+
+### Course certificates & structured learning
+
+The following are **course or completion credentials**, not claims of professional licensure or expert-level certification:
+
+- **Google** — Cybersecurity Certificate
+- **IBM SkillsBuild** — Cybersecurity Fundamentals
+- **TryHackMe** — Junior Penetration Tester learning path
+- **ITI** — Ethical Hacking and Computer Networks Implementation
+- **Meta** — JavaScript Developer learning certificate
+
+**Additional study:** eJPT/eWPT and Cisco CCNA learning tracks. **Passing their professional certification exams is not claimed here.** Credential verification links can be added when available.
+
+---
+
+## 05 / Currently on the workbench
+
+**Insider Eye — active development, not a finished product.**
+
+An ongoing insider-threat security platform exploring policy-aware endpoint workflows, backend controls, trustworthy telemetry and AI-assisted detection evaluation. I'm treating it as both a serious academic engineering effort and a longer-term security product research direction.
+
+I care about four questions in any system I build: **What is the threat model? What can we verify? What remains uncertain? What breaks at the edge?**
+
+---
 
 <p align="center">
-  <a href="mailto:bavlywagyh@gmail.com"><b>Discuss research or engineering →</b></a>
-  <br><sub>Bavly Wagyh · Cairo, Egypt · Build carefully, verify independently.</sub>
+  <b>Research, a security finding, or a system worth building?</b><br/>
+  <a href="mailto:bavlywagyh@gmail.com"><b>Let's talk</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bavly-wagyh-9a4645208/">LinkedIn</a>
+  <br/><sub>Bavly Wagyh · Cairo, Egypt · Practical security, independently checkable evidence.</sub>
 </p>

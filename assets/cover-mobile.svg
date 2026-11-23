@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Bavly Wagyh — Security research and engineering">
+  <rect width="720" height="520" fill="#111A18"/>
+  <path d="M35 38H685" stroke="#43514B" stroke-width="1"/>
+  <path d="M35 38H180" stroke="#DF8965" stroke-width="5"/>
+  <text x="35" y="72" fill="#C5CCC6" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2.9" font-weight="bold">INDEPENDENT RESEARCH ARCHIVE</text>
+
+  <text x="30" y="211" fill="#F2F0E8" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="137" letter-spacing="-7">BAVLY</text>
+  <text x="30" y="333" fill="#F2F0E8" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="137" letter-spacing="-7">WAGYH</text>
+
+  <path d="M35 366H685" stroke="#43514B" stroke-width="1"/>
+  <rect x="35" y="394" width="9" height="9" fill="#DF8965"/>
+  <text x="58" y="404" fill="#DF8965" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="19" letter-spacing="2.1">SECURITY RESEARCH &amp; ENGINEERING</text>
+  <text x="35" y="449" fill="#F2F0E8" font-family="Georgia, Times New Roman, serif" font-size="30" font-style="italic">Investigate / Reproduce / Verify</text>
+  <path d="M35 476H685" stroke="#43514B" stroke-width="1"/>
+  <text x="35" y="500" fill="#8F9F97" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.2">CAIRO / 2026</text>
+  <text x="685" y="500" fill="#8F9F97" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2.2">FILE 001 / B.W.</text>
+</svg>

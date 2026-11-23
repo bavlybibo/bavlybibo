@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Bavly Wagyh — Security research and engineering">
+  <rect width="1200" height="380" fill="#111A18"/>
+  <path d="M48 40H1152" fill="none" stroke="#43514B" stroke-width="1"/>
+  <path d="M48 40H181" fill="none" stroke="#DF8965" stroke-width="5"/>
+  <text x="48" y="66" fill="#C5CCC6" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4" font-weight="bold">INDEPENDENT RESEARCH ARCHIVE</text>
+  <text x="1152" y="66" fill="#97A69E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="3">CAIRO / 2026</text>
+
+  <text x="43" y="183" fill="#F2F0E8" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="123" letter-spacing="-7">BAVLY</text>
+  <text x="43" y="292" fill="#F2F0E8" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="123" letter-spacing="-7">WAGYH</text>
+  <path d="M777 99V309" stroke="#43514B" stroke-width="1"/>
+
+  <text x="815" y="120" fill="#DF8965" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4" font-weight="bold">SECURITY / RESEARCH / ENGINEERING</text>
+  <text x="815" y="176" fill="#F2F0E8" font-family="Georgia, Times New Roman, serif" font-size="34" font-style="italic">Investigate.</text>
+  <text x="815" y="221" fill="#F2F0E8" font-family="Georgia, Times New Roman, serif" font-size="34" font-style="italic">Reproduce.</text>
+  <text x="815" y="266" fill="#F2F0E8" font-family="Georgia, Times New Roman, serif" font-size="34" font-style="italic">Verify.</text>
+  <circle cx="1125" cy="166" r="6" fill="#DF8965"/>
+  <circle cx="1125" cy="211" r="6" fill="#94A79C"/>
+  <circle cx="1125" cy="256" r="6" fill="#94A79C"/>
+  <path d="M1125 172V205M1125 217V250" stroke="#687A70" stroke-width="2"/>
+
+  <path d="M48 327H1152" stroke="#43514B" stroke-width="1"/>
+  <rect x="48" y="341" width="9" height="9" fill="#DF8965"/>
+  <text x="70" y="350" fill="#8F9F97" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">WEB / API SECURITY</text>
+  <text x="406" y="350" fill="#8F9F97" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">FORENSICS &amp; SYSTEMS</text>
+  <text x="1152" y="350" fill="#8F9F97" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.4">FILE 001 / B.W.</text>
+</svg>
